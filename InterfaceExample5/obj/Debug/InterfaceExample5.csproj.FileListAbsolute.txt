@@ -1,0 +1,7 @@
+D:\c#练习项目\InterfaceExample\InterfaceExample5\bin\Debug\InterfaceExample5.exe.config
+D:\c#练习项目\InterfaceExample\InterfaceExample5\bin\Debug\InterfaceExample5.exe
+D:\c#练习项目\InterfaceExample\InterfaceExample5\bin\Debug\InterfaceExample5.pdb
+D:\c#练习项目\InterfaceExample\InterfaceExample5\obj\Debug\InterfaceExample5.csproj.AssemblyReference.cache
+D:\c#练习项目\InterfaceExample\InterfaceExample5\obj\Debug\InterfaceExample5.csproj.CoreCompileInputs.cache
+D:\c#练习项目\InterfaceExample\InterfaceExample5\obj\Debug\InterfaceExample5.exe
+D:\c#练习项目\InterfaceExample\InterfaceExample5\obj\Debug\InterfaceExample5.pdb
